@@ -1,0 +1,23 @@
+[
+  {
+    "codigo": "TEC-001",
+    "nombre": "Teclado USB",
+    "precio": 12990.0,
+    "cantidad": 10,
+    "tipo": "ProductoNormal"
+  },
+  {
+    "codigo": "TEC-002",
+    "nombre": "Pasta térmica",
+    "precio": 5990.0,
+    "cantidad": 6,
+    "tipo": "ProductoPerecible"
+  },
+  {
+    "codigo": "TEC-003",
+    "nombre": "Licencia antivirus",
+    "precio": 19990.0,
+    "cantidad": 20,
+    "tipo": "LicenciaDigital"
+  }
+]
