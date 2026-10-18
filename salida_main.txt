@@ -1,0 +1,21 @@
+
+========== INVENTARIO TECNOBOX ==========
+TEC-001 | Teclado USB | Tipo: ProductoNormal | Precio: $12990.00 | Stock: 10
+TEC-002 | Pasta térmica | Tipo: ProductoPerecible | Precio: $5990.00 | Stock: 8
+TEC-003 | Licencia antivirus | Tipo: LicenciaDigital | Precio: $19990.00 | Stock: 20
+
+========== VENTA DE DEMOSTRACIÓN ==========
+--- TICKET TECNOBOX ---
+Producto: Pasta térmica
+Código: TEC-002
+Cantidad: 2
+Total: $9584.00
+Stock restante: 6
+Venta procesada. Total pagado: $9584.00
+
+========== INVENTARIO TECNOBOX ==========
+TEC-001 | Teclado USB | Tipo: ProductoNormal | Precio: $12990.00 | Stock: 10
+TEC-002 | Pasta térmica | Tipo: ProductoPerecible | Precio: $5990.00 | Stock: 6
+TEC-003 | Licencia antivirus | Tipo: LicenciaDigital | Precio: $19990.00 | Stock: 20
+
+Los datos quedan guardados en inventario.json.
